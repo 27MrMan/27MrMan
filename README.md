@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @27MrMan
+- 👋 Good Evening, I’m @27MrMan
 - 👀 I’m interested in anything Minecraft, python, and mental math.
 - 🌱 I’m currently learning some random python stuff for practical usage.
 - 💞️ I’m looking to collaborate on a mc mod for java edition.
